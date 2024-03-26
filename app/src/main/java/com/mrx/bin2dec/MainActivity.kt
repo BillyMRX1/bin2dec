@@ -117,7 +117,7 @@ fun HomeScreen() {
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun HomePreview() {
     Bin2DecTheme {
         HomeScreen()
     }
